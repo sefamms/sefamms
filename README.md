@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sefamms
+- 👀 I’m interested in Networking 
+- 🌱 I’m currently learning Angular and NetCore
