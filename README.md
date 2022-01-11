@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sefamms
+- 👋 Hi, I’m Sefa Memiş
 - 👀 I’m interested in Networking 
 - 🌱 I’m currently learning Angular and NetCore
