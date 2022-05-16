@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sefa
 - 👀 I’m interested in Networking 
-- 🌱 I’m currently learning Angular and NetCore
+- 🌱 I’m currently learning Docker,kubernetes
