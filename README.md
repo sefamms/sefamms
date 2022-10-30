@@ -1,3 +1,2 @@
 - 👋 Hi, I’m Sefa
 - 👀 I’m interested in Networking 
-- 🌱 I’m currently learning Docker,kubernetes
